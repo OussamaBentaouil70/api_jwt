@@ -1,0 +1,4 @@
+username: oussama
+passowrd: 123456
+
+Access the Django admin interface in your web browser by going to http://127.0.0.1:8000/admin/.
